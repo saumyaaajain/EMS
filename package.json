@@ -11,7 +11,7 @@
     "body-parser": "1.17.2",
     "chalk": "latest",
     "cors": "2.8.4",
-    "express": "4.15.3",
+    "express": "4.17.3",
     "express-rate-limit": "2.9.0",
     "mongoose": "4.10.8",
     "mongoose-unique-validator": "1.0.5",
